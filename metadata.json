@@ -1,0 +1,9 @@
+{
+  "name": "EchoLens AR",
+  "description": "A futuristic AR web application blending past memories with the present reality using live camera feeds and AI analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
